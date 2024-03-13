@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\jens_stat_gen\jens_stat_gen.pdb
+C:\Users\admin\Desktop\jens_stat_gen\D3DCompiler_47_cor3.dll
+C:\Users\admin\Desktop\jens_stat_gen\PenImc_cor3.dll
+C:\Users\admin\Desktop\jens_stat_gen\PresentationNative_cor3.dll
+C:\Users\admin\Desktop\jens_stat_gen\vcruntime140_cor3.dll
+C:\Users\admin\Desktop\jens_stat_gen\wpfgfx_cor3.dll
+C:\Users\admin\Desktop\jens_stat_gen\jens_stat_gen.exe

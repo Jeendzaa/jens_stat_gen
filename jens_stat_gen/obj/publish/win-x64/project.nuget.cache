@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBNJD0LrCETY4fOSY9AFOMfSBU31NVpWS9yVvmgZPQ/pEV3oFt3SMAs4fMRic3vv5pE8xViX0amh1bEOAlNl6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\codes\\c_sharp\\jens_stat_gen\\jens_stat_gen\\jens_stat_gen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.14\\microsoft.netcore.app.runtime.win-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.14\\microsoft.aspnetcore.app.runtime.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
